@@ -1,0 +1,1 @@
+WHITE_LIST_DB = ['postgres','template1','template0']
