@@ -5,3 +5,8 @@ Which will create 2 type of user :
 - R user
 
 Manage base on content of db_list. If not in db_list -> Delete on db. If in db_list -> Create to db.
+
+# How to run ?
+- Change .env.sample -> .env
+- Fill data into env
+- Run : python main.py
